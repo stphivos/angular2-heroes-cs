@@ -3,6 +3,8 @@
 
 app/*.js
 app/*.map
+tests/*.js
+tests/*.map
 
 node_modules/
 typings/
