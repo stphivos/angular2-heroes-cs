@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/stphivos/angular2-heroes-cs.svg?branch=master)](https://travis-ci.org/stphivos/django-mock-queries)
+[![Build Status](https://travis-ci.org/stphivos/angular2-heroes-cs.svg?branch=master)](https://travis-ci.org/stphivos/angular2-heroes-cs)
 
 # Angular 2 Heroes Case Study
 
